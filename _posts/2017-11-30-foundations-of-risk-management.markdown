@@ -5,6 +5,8 @@ date: 2017-11-30
 img: course1.png
 icon: course1_icon.png
 launch: foundations-of-risk-management
+button: Launch
+buttonpic: fa fa-rocket
 alt: image-alt
 project-date: November 2017
 client: Start Bootstrap
