@@ -9,6 +9,6 @@ alt: image-alt
 project-date: November 2017
 client: Start Bootstrap
 category: Web Development
-description: Great job on choosing GARP Financial Risk Manager (FRM) designation as you advance your career. In FRM Level I, we will be learning Foundations of Risk Management, Quantitative Analysis, Financial Markets and Products, and Valuation and Risk Models. Excited? Let's get started!
+description: In this course, you will be learning about foundational concepts of risk management and how risk management can add value to an organization. Let's build solid foundations as we start this FRM journey!
 
 ---
