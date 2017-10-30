@@ -3,8 +3,10 @@ layout: default
 modal-id: 3
 date: 2017-09-30
 img: course3.png
-icon: course3_icon.png
+icon: construction.png
 launch: financial-markets-and-products
+button: Subscribe
+buttonpic: fa fa-envelope-o
 alt: image-alt
 project-date: September 2017
 client: Start Bootstrap
