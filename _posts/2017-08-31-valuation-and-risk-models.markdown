@@ -2,8 +2,8 @@
 layout: default
 modal-id: 4
 date: 2017-08-31
-img: construction.png
-icon: course4_icon.png
+img: course4.png
+icon: construction.png
 launch: valuation-and-risk-models
 button: Subscribe
 buttonpic: fa fa-envelope-o
