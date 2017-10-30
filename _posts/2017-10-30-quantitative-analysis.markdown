@@ -4,7 +4,7 @@ modal-id: 2
 date: 2017-10-30
 img: course2.png
 icon: construction.png
-launch: quantitative-analysis
+launch: #newsletter
 button: Subscribe
 buttonpic: fa fa-envelope-o
 alt: image-alt
