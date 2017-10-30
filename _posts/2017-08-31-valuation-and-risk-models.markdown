@@ -11,6 +11,6 @@ alt: image-alt
 project-date: August 2017
 client: Start Bootstrap
 category: Web Development
-description: Oops. Our volunteers are still working to construct this course. Please visit this page again in the near future, or subscribe to our mailing list below to stay up-to-date with the release of our new courses.
+description: Oops. Our volunteers are still working to construct this course. Please visit again in the near future, or subscribe to our mailing list below to stay up to date. We appreciate your understanding and support!
 
 ---
