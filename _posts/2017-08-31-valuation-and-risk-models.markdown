@@ -2,9 +2,11 @@
 layout: default
 modal-id: 4
 date: 2017-08-31
-img: course4.png
+img: construction.png
 icon: course4_icon.png
 launch: valuation-and-risk-models
+button: Subscribe
+buttonpic: fa fa-envelope-o
 alt: image-alt
 project-date: August 2017
 client: Start Bootstrap
